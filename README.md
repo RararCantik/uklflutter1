@@ -1,16 +1,14 @@
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# splash screen
+![alt text](https://github.com/RararCantik/ss-ukl/blob/main/splash%20screen.png?raw=true)
+#login screen
+![alt text](https://github.com/RararCantik/ss-ukl/blob/main/login%20screen.png)
+#dasbor 1
+![alt text](https://github.com/RararCantik/ss-ukl/blob/main/dashboard%201.png)
+#dasbor 2
+![alt text](https://github.com/RararCantik/ss-ukl/blob/main/dasbor2.png)
+#my booking
+![alt text](https://github.com/RararCantik/ss-ukl/blob/main/mybooking.png)
+#movie
+![alt text](https://github.com/RararCantik/ss-ukl/blob/main/movie1.png)
+#cinema
+![alt text](https://github.com/RararCantik/ss-ukl/blob/main/cinema1.png)
